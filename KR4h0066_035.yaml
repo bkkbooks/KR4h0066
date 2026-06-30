@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0066/krp/v1/juan/35
+seq: 35
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0066_WYG_035-1a, image: WYG1362/WYG1362-0241c.png}
+body:
+  text: 十先生奧論注續集卷五闋十先生奧論注續集卷五
+  hash: sha256:86db1e3b2663c63c3b3c2002c2bb6da368c0e288901bd30f07f1f271b0a59ec4
+metadata:
+  title: 十先生奧論註
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:34:33.972870'
+  juan_title: 續集卷五原闕
+  source:
+    repository: kanripo
+    path: KR4h0066/KR4h0066_035.txt
+hash: sha256:58163f2dffe61182fda9d58800d439ed68d8a4ef0566c4c11f3b74f42e474542
