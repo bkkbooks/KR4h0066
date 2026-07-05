@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4h0066_WYG_031-1a, image: WYG1362/WYG1362-0239a.png}
 body:
-  text: 十先生奧論注續集卷一闕十先生奧論注續集卷一
-  hash: sha256:b0cb98deeabdd384595b970756a15d36ada49075141d64a665f4aa38788798fc
+  text: 十先生奥論註續集巻一闕十先生奥論註續集巻一
+  hash: sha256:18be6ec28c1403997b61f42fae81fd65c0ffb3c2efaf036b9345b1b0ebeb99a1
 metadata:
   title: 十先生奧論註
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4h0066/KR4h0066_031.txt
-hash: sha256:a95e6c1e980ee910aef8e8825fa1dd4737ad03c3cd08debf66a789bf172c744f
+hash: sha256:ab44676d8636d6d0ba62960074509dead50d5078a121f5b292300d33d7064773
