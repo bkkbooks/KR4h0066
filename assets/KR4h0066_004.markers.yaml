@@ -28,6 +28,7 @@ markers:
   - {type: line-break, offset: 14, content: '', id: KR4h0066_WYG_004-1a04}
   - {type: indent, offset: 14, content: 　　　, id: KR4h0066_krp_004-bkkind5}
   - {type: punctuation, offset: 15, content: (, id: KR4h0066_krp_004-bkkpn1}
+  - {type: voice, offset: 15, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 17, content: /, id: KR4h0066_krp_004-bkkpn2}
   - {type: punctuation, offset: 19, content: ), id: KR4h0066_krp_004-bkkpn3}
   - {type: 'kr:newline', offset: 19, content: '
@@ -40,6 +41,7 @@ markers:
       ', id: KR4h0066_krp_004-bkkkrnewl5}
   - {type: line-break, offset: 39, content: '', id: KR4h0066_WYG_004-1a06}
   - {type: punctuation, offset: 49, content: (, id: KR4h0066_krp_004-bkkpn4}
+  - {type: voice, offset: 49, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 50, content: /, id: KR4h0066_krp_004-bkkpn5}
   - {type: punctuation, offset: 50, content: ), id: KR4h0066_krp_004-bkkpn6}
   - {type: 'kr:newline', offset: 50, content: '
@@ -48,6 +50,7 @@ markers:
   - {type: line-break, offset: 50, content: '', id: KR4h0066_WYG_004-1a07}
   - {type: substitution, offset: 50, original: 歩, replacement: 步, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20787}}
   - {type: punctuation, offset: 64, content: (, id: KR4h0066_krp_004-bkkpn7}
+  - {type: voice, offset: 64, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 65, content: /, id: KR4h0066_krp_004-bkkpn8}
   - {type: punctuation, offset: 65, content: ), id: KR4h0066_krp_004-bkkpn9}
   - {type: 'kr:newline', offset: 65, content: '
@@ -494,4 +497,4 @@ markers:
 
       ', id: KR4h0066_krp_004-bkkkrnewl107}
   back: []
-hash: sha256:3cf214cf547797a8b87acecb3b6b21a8a4fe1bcca6f40c1b184d44801816005d
+hash: sha256:50a8171e0a519e98b826ba9bcb405d0d13172f1d9059a2a216ba5df6c0af64cb
